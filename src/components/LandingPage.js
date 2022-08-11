@@ -131,7 +131,7 @@ function LandingPage() {
       </Modal>
 
       <div className="header">
-        <Link to="/owner"><img data-aos="fade-right" data-aos-duration="2300" src={logo} /></Link>
+        <Link to="/blue"><img data-aos="fade-right" data-aos-duration="2300" src={logo} /></Link>
         <div className='title'>
           <h1 data-aos="fade-up" data-aos-duration="1000">AL-SAFEE AL-MOTAHIDA</h1>
           <p data-aos="fade-up" data-aos-duration="1500">Transportation prices by states</p>
